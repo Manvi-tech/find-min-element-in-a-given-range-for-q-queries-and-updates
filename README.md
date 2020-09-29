@@ -1,0 +1,1 @@
+# find-min-element-in-a-given-range-for-q-queries-and-updates
